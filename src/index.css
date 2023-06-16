@@ -1,0 +1,19 @@
+body {
+  background-color:aqua
+}
+.heading {
+  text-align: center;
+  font-size: 4em;
+  color:rgb(107, 13, 161);
+  margin: 20px 0 30px;
+}
+.circle-img {
+  border-radius: 50%;
+  margin: 0 auto;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
