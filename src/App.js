@@ -6,7 +6,10 @@ import ReactDOM from "react-dom";
 function App() {
   return (
     <div>
-        <h1  className="heading">Nansamba's Portfolio</h1>
+        <header>
+           <h1  className="heading">Nansamba's Portfolio</h1>
+        </header>
+        
         <img className="circle-img" src="https://cdn.pixabay.com/photo/2015/04/19/08/32/rose-729509_1280.jpg" alt="image" />
       
       <body>
