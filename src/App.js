@@ -32,7 +32,7 @@ function App() {
               <p><em><strong>Web Developer - Software Engineer - FinTech</strong></em></p></td>
           </table> */}
           <p className="intro">
-              Hi, my name is <br/><span style= {{ fontSize: 50 }} >Nansamba.</span><br/>I'm a data engineer in the San Francisco Bay Area. <br/>I enjoy playing viola and discovering ethnic desserts <br/>from around the world.</p>
+              Hi, my name is <br/><span style= {{ fontSize: 50,color: "purple"}}>Nansamba.</span><br/>I'm a data engineer in the San Francisco Bay Area. <br/>I enjoy playing viola and discovering ethnic desserts <br/>from around the world.</p>
       </body>
     </div>
   );
