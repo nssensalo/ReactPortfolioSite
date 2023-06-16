@@ -11,7 +11,7 @@ function App() {
       
       <body>
         <table cellspacing="20">
-              <td><img src="images/nanpngformat.png" width="250" height="250" alt="Nansamba Ssensalo photo"/></td>
+              <td><img className="circle-img" src="images/nanpngformat.png" width="250" height="250" alt="Nansamba Ssensalo photo"/></td>
               <td><h1>
                   Nansamba Ssensalo
               </h1>
@@ -23,3 +23,5 @@ function App() {
 }
 
 export default App;
+
+
